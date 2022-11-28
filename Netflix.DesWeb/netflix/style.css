@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+.texto {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(255, 255, 255);
+}
+.titulo {
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    border: 10px;
+    border-style: outset;
+    border-color: rgb(255, 255, 255);
+}
+
+.cor1 {
+    background-color: red;
+}
+
+.navbar {
+    font-family: 'Silkscreen', cursive;
+}
+img {
+    border-radius: 3px;
+    border-style: outset;
+    border-color: rgb(255, 255, 255);
+}
